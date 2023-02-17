@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+</div>
+
 
 ## Something About Me
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
