@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I set my goals only on Saturday
+## Something About Me
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Scikit><-><learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
