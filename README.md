@@ -9,8 +9,8 @@
   <a href="https://public.tableau.com/app/profile/jerrylin0505">
     <img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://medium.com/@jerrylin0505">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
