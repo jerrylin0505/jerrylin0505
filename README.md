@@ -35,7 +35,7 @@ Data Science/ML is vast and growing at an exponential rate;
 
 This github is my attempt to figure some of it and share my knowledge
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=streamlit-test-app)](https://github.com/hamzafarooq/streamlit-test-app)](https://github.com/jerrylin0505/Spam-Email-Classification)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jerrylin0505&repo=Spam-Email-Classification)]https://github.com/jerrylin0505/Spam-Email-Classification
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=algos)](https://github.com/hamzafarooq/algos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=NLP-with-Python)](https://github.com/hamzafarooq/NLP-with-Python)
