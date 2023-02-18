@@ -27,8 +27,6 @@
 - 🌱 I’m currently learning Information Retrieval Systems
 - 👯 I’m looking to collaborate on NLP
 - 🤔 I’m looking for help with how to become a better researcher!
-- 💬 Ask me about my course on ML System Design
-- 📫 How to reach me: https://www.linkedin.com/in/jerrylin0505/
 
 <!--
 **jerrylin0505/jerrylin0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
