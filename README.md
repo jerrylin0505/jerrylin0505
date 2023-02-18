@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
 - 🌱 I’m currently learning Information Retrieval Systems
-- 👯 I’m looking to collaborate on NLP
+- 👯 I’m looking to solve real-world challenge with ML expertise
 - 🤔 I’m looking for help with how to become a better researcher!
 
 Data Science/ML is vast and growing at an exponential rate; 
