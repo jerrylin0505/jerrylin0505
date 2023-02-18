@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQzYzg1Y2ZhZjc1MzI5ZmEzZDJlNTRkZWJhYjg1MTg0Yjc0ZTU5MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/KgFD8lRvyPDi9PGnrJ/giphy.gif" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQzYzg1Y2ZhZjc1MzI5ZmEzZDJlNTRkZWJhYjg1MTg0Yjc0ZTU5MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/KgFD8lRvyPDi9PGnrJ/giphy.gif" width="130" height="130"/>
 </div>
 
 <div id="badges" align="center">
@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 
 ### About Me
-![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFA69E)
-![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
-![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
-![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
+![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
