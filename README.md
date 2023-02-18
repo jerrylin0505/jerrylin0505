@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
