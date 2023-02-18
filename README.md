@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About Me
+### 👨‍🎓 About Me:
 <!-- 
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=tokyonight&background=000000)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=tokyonight)
