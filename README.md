@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### Data Science/ML is vast and growing at an exponential rate; 
-### This github is my attempt to figure some of it and share my knowledge
+<p>Data Science/ML is vast and growing at an exponential rate; This github is my attempt to figure some of it and share my knowledge</q></p>
 
 ---
 
