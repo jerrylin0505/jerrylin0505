@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j8XOFLN4DPXswRPOqS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQzYzg1Y2ZhZjc1MzI5ZmEzZDJlNTRkZWJhYjg1MTg0Yjc0ZTU5MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -14,6 +14,14 @@
   </a>
 </div>
 
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="50px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="600" height="300"/>
+</div>
 
 # About Me
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
