@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 
 
 ### About Me
-![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
-![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
-![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
-![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
+![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFA69E)
+![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
+![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
+![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
+![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A0DDFF)
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
-- 🌱 I’m currently learning Information Retrieval Systems
+- 🌱 I’m currently learning Time-Series Forecasting & Docker
 - 👯 I’m looking to solve real-world challenge with ML expertise
 - 🤔 I’m looking for help with how to become a better researcher!
 
@@ -54,12 +54,5 @@ Data Science/ML is vast and growing at an exponential rate;
 This github is my attempt to figure some of it and share my knowledge
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=dark&background=000000)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=radical)
-
-
-
-
-
-
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=tokyonight&background=000000)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=tokyonight)
