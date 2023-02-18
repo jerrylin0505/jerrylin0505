@@ -32,16 +32,23 @@ Here are some ideas to get you started:
 </div>
 
 <div id="hey" align="center">
-  <img src="https://media.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="80px"/>
 </div>
 
 
+### Data Science/ML is vast and growing at an exponential rate; 
+### This github is my attempt to figure some of it and share my knowledge
+
+---
+
 ### About Me
+<!-- 
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
 ![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
-![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7)
+![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DDFFF7) 
+-->
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
@@ -49,9 +56,22 @@ Here are some ideas to get you started:
 - 👯 I’m looking to solve real-world challenge with ML expertise
 - 🤔 I’m looking for help with how to become a better researcher!
 
-Data Science/ML is vast and growing at an exponential rate; 
+---
 
-This github is my attempt to figure some of it and share my knowledge
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=tokyonight&background=000000)
