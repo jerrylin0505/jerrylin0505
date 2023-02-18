@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 
 ### About Me
-![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Scikit><-><learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
+![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
+![](https://img.shields.io/badge/<ScikitLearn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
+![](https://img.shields.io/badge/<TimeSeries>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
+![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=545580)
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
