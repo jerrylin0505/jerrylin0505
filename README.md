@@ -55,7 +55,7 @@ This github is my attempt to figure some of it and share my knowledge
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=dark&background=000000)
-![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=radical)
 
 
 
