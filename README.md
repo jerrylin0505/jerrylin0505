@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on being a better researcher with a perspective on real world examples
-- 🌱 I’m currently learning Time-Series Forecasting & Docker
+- 🔭 I’m currently working on being a better scientist with a product sense
+- 🌱 I’m currently learning Time-Series & Docker
 - 👯 I’m looking to solve real-world challenge with ML expertise
-- 🤔 I’m looking for help with how to become a better researcher!
+- 🤔 I’m looking for help with how to find a data scientist job!
 
 ---
 
