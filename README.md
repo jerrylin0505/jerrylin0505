@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on being a better scientist with a product sense
+- 🔭 I’m focusing on enhancing my skills as a scientist with a strong product sense
 - 🌱 I’m currently learning Time-Series & Docker
-- 👯 I’m looking to solve real-world challenge with ML expertise
-- 🤔 I’m looking for help with how to find a data scientist job!
+- 👯 I’m seeking to apply my expertise in machine learning to solve real-world challenges
+- 🔍 I’m actively looking for DS/DA/BIE/MLE related job!
 
 ---
 
