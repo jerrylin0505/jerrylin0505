@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrylin0505&theme=tokyonight&background=000000)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jerrylin0505&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jerrylin0505&show_icons=true&theme=tokyonight)
