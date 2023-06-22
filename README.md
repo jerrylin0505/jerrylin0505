@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 🔭 I’m focusing on enhancing my skills as a scientist with a strong product sense
 - 🌱 I’m currently learning Time-Series & Docker
 - 👯 I’m seeking to apply my expertise in machine learning to solve real-world challenges
-- 🔍 I’m actively looking for DS/DA/BIE/MLE related job!
+- 🔍 I’m actively looking for DS/DA/DE/BIE related job!
 
 ---
 
